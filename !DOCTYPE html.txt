@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Financial Website</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <header>
+    <nav>
+      <!-- Navigation menu -->
+    </nav>
+  </header>
+  
+  <main>
+    <section id="overview">
+      <!-- Overview of financial data -->
+    </section>
+    
+    <section id="charts">
+      <!-- Financial charts and graphs -->
+    </section>
+    
+    <section id="news">
+      <!-- Financial news and updates -->
+    </section>
+    
+    <section id="portfolio">
+      <!-- User portfolio details -->
+    </section>
+  </main>
+  
+  <footer>
+    <!-- Footer content -->
+  </footer>
+</body>
+</html>
