@@ -1,3 +1,4 @@
+![Screenshot 2024-03-31 232249](https://github.com/AmanMehta199816/AmanCODEWEB/assets/96304523/57603942-adce-4ea0-a64d-cf140c7a4117)
 # Myntra Clone Web
 
 This project is a basic clone of the Myntra website, showcasing a simple layout with product listings.
