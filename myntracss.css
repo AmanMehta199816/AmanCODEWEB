@@ -1,0 +1,90 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+header {
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+}
+
+header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h1 {
+    font-size: 24px;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #333;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.user-actions {
+    margin-left: auto;
+}
+
+.user-actions a {
+    color: #333;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+section#banner img {
+    width: 100%;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+}
+
+footer .container {
+    text-align: center;
+}
+
+.product-card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.product-card h2 {
+    margin-bottom: 10px;
+}
+
+.product-card p {
+    font-weight: bold;
+}
+
+.product-card img {
+    max-width: 100%; /* Ensures the image does not exceed its container width */
+    height: auto; /* Maintains aspect ratio */
+}
+
