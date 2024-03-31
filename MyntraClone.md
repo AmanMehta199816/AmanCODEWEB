@@ -22,9 +22,3 @@ This project aims to replicate the basic layout of the Myntra website, including
 - Product listing section with dynamically generated product cards.
 - Responsive design to adapt to different screen sizes.
 
-## Usage
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/myntra-clone.git
