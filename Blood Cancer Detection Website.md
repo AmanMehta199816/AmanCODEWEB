@@ -25,4 +25,4 @@ To contribute to the Blood Cancer Website project, follow these steps:
 6. Submit a pull request with your contributions for review and feedback.
 
 ## Figma ( Initial Stage)
-: 
+: https://www.figma.com/file/fL0CB16Kk47Q6kdc6iwKBo/Untitled?type=design&node-id=0%3A1&mode=design&t=4oV8zMWrmQU8wlhI-1
